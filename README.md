@@ -1,4 +1,4 @@
-# ![Logo](Doc/icons/logo.jpg) Json.NET
+# ![Logo](Doc/icons/logo.jpg) Json.NETx
 
 [![NuGet version (Newtonsoft.Json)](https://img.shields.io/nuget/v/Newtonsoft.Json.svg?style=flat-square)](https://www.nuget.org/packages/Newtonsoft.Json/)
 [![Build status](https://dev.azure.com/jamesnk/Public/_apis/build/status/JamesNK.Newtonsoft.Json?branchName=master)](https://dev.azure.com/jamesnk/Public/_build/latest?definitionId=8)
